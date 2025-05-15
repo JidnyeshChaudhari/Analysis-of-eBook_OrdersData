@@ -15,6 +15,11 @@ The original wide-format dataset with hourly columns was transformed into a long
 ## 🖼️ Dashboard Preview
 ![eBookOrder_Dashboard_1st_Page](https://github.com/user-attachments/assets/8c577560-ca27-4c99-b454-e3a7d71771dd)
 ![eBookOrder_Dashboard_2nd_Page](https://github.com/user-attachments/assets/47ecd459-d196-41b6-820a-d8da5c04fe25)
+
+- The dataset was **very compact and in a wide format**, which made it difficult to analyze directly. This project helped me understand the **importance of data cleaning and manipulation** as a foundational step in any analysis workflow.
+- As part of the solution, I used **Excel's 'Unpivot Columns'** feature to restructure the dataset into a long format, which made it easier to import into Power BI and build effective visualizations.
+- I faced difficulties in finding strong relationships between fields due to the **limited size and scope of the dataset**. This made developing meaningful visuals in Power BI more challenging. However, these constraints helped me **develop critical thinking and problem-solving abilities** by forcing me to think creatively about how to extract value from minimal data'
+- By creating calculated columns in Power BI to extract monthly trends, by learning DAX functions like `MONTH()` and `FORMAT()` helps to visualize the data effectively
 ## 📁 Files
 - [eBookOrder_Dataset_SampleData.xlsx](https://github.com/user-attachments/files/20225926/eBookOrder_Dataset_SampleData.xlsx)
 - [Cleaned Dataset.xlsx](https://github.com/user-attachments/files/20225927/Cleaned.Dataset.xlsx)
